@@ -1,0 +1,18 @@
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.csprojAssemblyReference.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\Kpo4381_nmv.Lib\bin\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\Kpo4381_nmv.Lib\bin\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.csprojAssemblyReference.cache
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\bin\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\bin\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\bin\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\bin\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.csprojAssemblyReference.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\Kpo4381_nmv.Lib\obj\Debug\Kpo4381_nmv.Lib.pdb

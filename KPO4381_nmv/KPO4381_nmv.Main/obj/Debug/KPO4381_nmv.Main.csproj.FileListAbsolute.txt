@@ -1,0 +1,40 @@
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.exe
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csprojAssemblyReference.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.FrmMain.resources
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.Properties.Resources.resources
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.GenerateResource.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.exe
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.CopyComplete
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.source.FrmCar.resources
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.exe.config
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.exe
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.pdb
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csprojAssemblyReference.cache
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.FrmMain.resources
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.Properties.Resources.resources
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.source.FrmCar.resources
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.GenerateResource.cache
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.CopyComplete
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.exe
+C:\Users\Ram\Desktop\КАИ\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.exe
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\KPO4381_nmv.Main.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\Kpo4381_nmv.Lib.dll
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\bin\Debug\Kpo4381_nmv.Lib.pdb
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csprojAssemblyReference.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.FrmMain.resources
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.Properties.Resources.resources
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.source.FrmCar.resources
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.GenerateResource.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.csproj.CopyComplete
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.exe
+C:\Users\Ram\Desktop\КАИ\Конструирование ПО\Выполнение\Лаб 1,2\Лаб №2.1\KPO4381_nmv\KPO4381_nmv.Main\obj\Debug\KPO4381_nmv.Main.pdb
